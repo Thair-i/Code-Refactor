@@ -22,4 +22,5 @@ concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![Screen Shot 2022-11-13 at 1 02 25 AM](https://user-images.githubusercontent.com/110577068/201514077-c141c963-7129-4902-ad0d-9ab8c30404d3.png)
+![Screen Shot 2022-11-13 at 1 03 19 AM](https://user-images.githubusercontent.com/110577068/201514079-c3e32be9-8ea0-43eb-b815-e665e5f2455b.png)
